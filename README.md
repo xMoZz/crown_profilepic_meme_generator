@@ -14,3 +14,5 @@ This project allows users to generate a meme with a crown on a profile picture.
 1. Clone the repository:
    ```sh
    git clone https://github.com/xMoZz/crown_profilepic_meme_generator.git
+
+2. Enjoy
